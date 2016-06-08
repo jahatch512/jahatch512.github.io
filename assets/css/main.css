@@ -3085,3 +3085,39 @@
 		color: #4acaa8;
 		cursor: pointer;
 	}
+
+	.education-outer {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.school-picture {
+		height: 100px;
+		width: 100px;
+		margin-right: 30px;
+		margin-top: 30px;
+	}
+
+	#academy {
+		display: flex;
+		flex-direction: row;
+		margin-right: 30px;
+	}
+
+	#college {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.contact-info {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.contact-item {
+		margin-right: auto;
+	}
+
+	#resume-download {
+		text-decoration: underline;
+	}
